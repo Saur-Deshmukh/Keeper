@@ -22,6 +22,9 @@ Keeper is a simple and intuitive notes app built using React. It allows users to
 3. Install dependencies:
    ```bash
    npm install
+   npm install @mui/material @emotion/react @emotion/styled
+   npm install @mui/icons-material
+   ```
 4. Start the development server:
    ```bash
    npm start
