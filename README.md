@@ -7,10 +7,6 @@ Keeper is a simple and intuitive notes app built using React. It allows users to
 - **Add Notes**: Easily add new notes with a title and content.
 - **Delete Notes**: Remove any note you no longer need with a single click.
 
-## Screenshots
-
-*Include screenshots of your app here to showcase its functionality and design.*
-
 ## Installation
 
 1. Clone the repository:
