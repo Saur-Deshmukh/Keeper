@@ -27,7 +27,7 @@ Keeper is a simple and intuitive notes app built using React. It allows users to
    ```
 4. Start the development server:
    ```bash
-   npm start
+   npm run dev
 5. Open your browser and visit http://localhost:3000 to view the app.
 ## Built With
 - **React** - A JavaScript library for building user interfaces.
